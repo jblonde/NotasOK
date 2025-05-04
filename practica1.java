@@ -40,7 +40,7 @@ public class notas {
 			System.out.println(" nota1 mal introducida");
 			
 		}else {
-			System.out.println(" nota1 correcta");
+			System.out.println(" nota1 bien");
 		}
 		
 		if (uf2>10) {
